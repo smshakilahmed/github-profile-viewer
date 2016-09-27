@@ -1,0 +1,11 @@
+.label {
+  margin-right: 15px; }
+
+.form {
+  position: relative; }
+  .form .btn-danger {
+    position: absolute;
+    right: 0;
+    top: 50%; }
+
+/*# sourceMappingURL=style.css.map */
